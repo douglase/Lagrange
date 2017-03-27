@@ -2,18 +2,18 @@
 title:               Lagrange
 tagline:             a minimalist Jekyll theme
 description:
-baseurl:            #"/Lagrange"
-url:                #"https://lenpaul.github.io"
+baseurl:            #""
+url:                "https://douglase.github.io"
 github:
   url:               #"https://lenpaul.github.io/Lagrange"
 author:
-  name:              "Paul Le"
-  email:             "l.nguyen.paul@gmail.com"
-  twitter:           "paululele"
-  instagram:         "paululele"
-  github:            "lenpaul"
-  facebook:          "Le.Paul.94"
-  linkedin:          "lenpaul"
+  name:              "Ewan Douglas"
+#  email:             "l.nguyen.paul@gmail.com"
+  twitter:           "douglase"
+ # instagram:         "douglase"
+  github:            "douglase"
+#  facebook:          "Le.Paul.94"
+  linkedin:          "ewan-s-douglas-31317034"
 navigation:
 - title: About
   url: /about
