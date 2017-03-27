@@ -22,7 +22,7 @@ navigation:
 - title: Contact
   url: /contact
 
-paginate:            5
+paginate:            15
 disqus:              #"your-disqus"
 
 # Build settings
