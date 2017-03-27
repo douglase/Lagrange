@@ -4,7 +4,7 @@ title: "Welcome"
 categories: journal
 tags: [documentation]
 image:
-  feature: kittpeak.jpg
+  feature: i-hw9K42v-XL.jpg
   credit: douglase
   creditlink: ""
 ---
